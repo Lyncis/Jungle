@@ -1,3 +1,4 @@
+//display details for product
 import React from 'react';
 import ListGroup from 'react-bootstrap/ListGroup';
 
